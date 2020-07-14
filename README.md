@@ -1,4 +1,4 @@
-[![mendokusai](./img/mendokusai.svg)](https://mistyfi.ky)
+[![mendokusai](https://raw.githubusercontent.com/mistyfiky/mistyfiky/master/img/mendokusai.svg)](https://mistyfi.ky)
 
 <!--
 **mistyfiky/mistyfiky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
